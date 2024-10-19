@@ -40,19 +40,19 @@ At last, Monte’s chance to perform came. He had played the **timorous** Lion i
 
 ### A VISIT TO THE PRESIDENT
 
-In the winter of 1941, Enrico Fermi and a number of other distinguished scientists importuned President Franklin Roosevelt for authorization to begin an all-out effort in atomic energy research. The scientists were alarmed by incontrovertible evidence of surreptitious German experiments, and they asked for speedy approval. Italian-born Enrico Fermi was the ideal man to lead the atomic research. Already in 1938 he had won the Nobel Prize for work with radioactive elements and neutron bombardment. Fermi had found a haven from the Fascists (his wife was Jewish) and he knew that if the Germans were the first to develop an atomic bomb it would mean that Hitler could subjugate the entire world. The international race for atomic supremacy was on.
+In the winter of 1941, Enrico Fermi and a number of other **distinguished** scientists **importuned** President Franklin Roosevelt for authorization to begin an all-out effort in atomic energy research. The scientists were alarmed by **incontrovertible** evidence of **surreptitious** German experiments, and they asked for **speedy** approval. Italian-born Enrico Fermi was the ideal man to lead the atomic research. Already in 1938 he had won the Nobel Prize for work with **radioactive** elements and **neutron bombardment**. Fermi had found a haven from the Fascists (his wife was Jewish) and he knew that if the Germans were the first to develop an atomic bomb it would mean that Hitler could **subjugate** the entire world. The international race for atomic **supremacy** was on.
 
-### THE ULTIMATE WEAPON TAKES SHAPE
+### THE ULTIMATE WEAPON TAKES SHAPE (Ultimate)
 
-Enrico Fermi designed a device that could eventuate in a chain reaction. It consisted of layers of graphite, alternated with chunks of uranium. The uranium emitted neutrons, and the graphite slowed them down. Holes were left for long cadmium safety rods. By withdrawing those control rods Fermi could speed up the production of neutrons, thus increasing the number of uranium atoms that would be split (fission). When the rods were withdrawn to a critical point, then the neutrons would be produced so fast that the graphite and cadmium could not absorb them. In that manner a chain reaction would result. Slowly, Fermi’s first atomic pile began to grow in a subterranean room at Columbia University. The big question remained—was it viable?
+Enrico Fermi designed a device that could **eventuate** in a chain reaction. It consisted of layers of **graphite**, alternated with chunks of **uranium**. The uranium **emitted** neutrons, and the graphite slowed them down. Holes were left for long **cadmium** safety rods. By withdrawing those **control rods** Fermi could speed up the production of neutrons, thus increasing the number of uranium atoms that would be split (fission). When the rods were withdrawn to a critical point, then the neutrons would be produced so fast that the graphite and cadmium could not **absorb** them. In that manner a chain reaction would result. Slowly, Fermi’s first atomic pile began to grow in a **subterranean** room at Columbia University. The big question remained—was it **viable**?
 
 ### THE SQUASH COURT EXPERIMENT
 
-As the pile grew, so did the entire project. Fermi moved his materials to an abandoned squash court under a football stadium at the University of Chicago. His pace accelerated because they were proceeding on the premise that the Germans were close to atomic success. Six weeks after the pile had been started, its critical size was reached. Three brave young men jeopardized their lives by ascending* the pile, ready to cover it with liquid cadmium if anything went wrong. Almost fifty scientists and several incredulous observers mounted a balcony to watch. One physicist remained on the floor; it was his job to extract the final cadmium control rod. Unbearable tension permeated the atmosphere. Fermi completed his calculations, waited for a propitious moment, and then gave the signal.
+As the **pile** grew, so did the entire project. Fermi moved his materials to an abandoned **squash court** under a football **stadium** at the University of Chicago. His pace **accelerated** because they were proceeding on the **premise** that the Germans were close to atomic success. Six weeks after the pile had been started, its **critical size** was reached. Three brave young men **jeopardized** their lives by ascending* the pile, ready to cover it with liquid cadmium if anything went wrong. Almost fifty scientists and several **incredulous** observers **mounted** a **balcony** to watch. One physicist remained on the floor; it was his job to extract the final cadmium control rod. Unbearable tension **permeated** the atmosphere. Fermi completed his calculations, waited for a **propitious** moment, and then gave the signal.
 
-### THE ITALIAN NAVIGATOR LANDS
+### THE ITALIAN NAVIGATOR LANDS (Navigator)
 
-The chain reaction took place precisely as Enrico Fermi had surmised. After twenty-eight minutes he curtailed the experiment, giving the signal to replace the control rod. The normally reserved scientists, unable to repress their excitement, let out a tremendous cheer and gathered around Fermi to shake his hand. Although it was time to celebrate, some of the men remarked soberly that “the world would never be the same again.” On December 2, 1942, the news of Fermi’s achievement was relayed in a cryptic telephone message:
+The chain reaction took place precisely as Enrico Fermi had **surmised**. After twenty-eight minutes he **curtailed** the experiment, giving the signal to replace the control rod. The normally **reserved** scientists, unable to **repress** their excitement, let out a tremendous cheer and gathered around Fermi to shake his hand. Although it was time to celebrate, some of the men remarked **soberly** that “the world would never be the same again.” On December 2, 1942, the news of Fermi’s achievement was relayed in a **cryptic** telephone message:
 
 “The Italian Navigator has reached the New World.” 
 
@@ -60,11 +60,11 @@ The chain reaction took place precisely as Enrico Fermi had surmised. After twen
 
 “Very friendly.”
 
-The Atomic Age was inchoate—but truly here!
+The Atomic Age was **inchoate**—but truly here!
 
 ## W14
 
-### SUNDAY MORNING AT PEARL HARBOR
+### SUNDAY MORNING AT PEARL HARBOR (Pearl Harbor)
 
 At breakfast time on Sunday morning, December 7, 1941, Dorie Miller was serving coffee aboard the battleship West Virginia. Dorie was black, and the highest job to which he could then aspire in the U.S. Navy was that of messman. While Dorie was technically a member of a great fighting fleet, he was not expected to fight. Most Army and Navy officers inveighed against blacks as fighting men. Although blacks were nettled by such overt prejudice, Dorie Miller apparently accepted being relegated to the role of a messhall servant. Now, as he poured the coffee, Dorie was wondering why the airplanes above were making so much noise on a peaceful Sunday morning.
 
