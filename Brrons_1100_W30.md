@@ -4,7 +4,7 @@
 
 ### LOCKED IN AN IVORY EDIFICE*
 
-Prince Siddhartha Gautama was the scion of a family of warrior kings in northern India. He was being indoctrinated for the time when he would assume his father’s throne. Growing up in an atmosphere of opulence, the young prince was constantly shielded from the cruel realities of the world. An army of obsequious servants and tutors catered to his every desire, providing Siddhartha with instruction in riding, fencing, dancing, and painting—while lavishing fulsome praise upon him. It wasn’t until the prince was thirty that he took the first step that led to his becoming the Buddha, one of the world’s greatest spiritual leaders.
+Prince Siddhartha Gautama was the scion of a family of warrior kings in northern India. He was being indoctrinated for the time when he would assume his father’s throne. Growing up in an atmosphere of opulence, the young prince was constantly shielded from the cruel realities of the world. An army of obsequious servants and tutors **catered** to his every desire, providing Siddhartha with instruction in riding, fencing, dancing, and painting—while lavishing fulsome praise upon him. It wasn’t until the prince was thirty that he took the first step that led to his becoming the Buddha, one of the world’s greatest spiritual leaders.
 
 ### SIDDHARTHA’S EYES ARE OPENED
 
